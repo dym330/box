@@ -1,6 +1,6 @@
 #!/bin/sh
 
-read REA
+echo '.' >> README.md
 
 git add -A
 git commit -m "push"
